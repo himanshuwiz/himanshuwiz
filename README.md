@@ -11,8 +11,7 @@
 
 
 <div align="left">
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&show_icons=true&theme=transparent)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="Himanshu's GitHub stats">
  
 
 
