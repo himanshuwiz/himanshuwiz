@@ -9,12 +9,12 @@
 <br clear="both">
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuDhingra2003&theme=dark)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="Himanshu's GitHub stats">
  
-   <img src="https://streak-stats.demolab.com/?user=HimanshuDhingra2003&theme=calm"
-alt="Himanshu's Github Streak Graph">
+   
 </div>
 
 ###
