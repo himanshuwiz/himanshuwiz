@@ -8,8 +8,7 @@
 
 <br clear="both">
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HimanshuDhingra2003&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HimanshuDhingra2003)](https://git.io/streak-stats)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="Himanshu's GitHub stats">
