@@ -11,8 +11,8 @@
 
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="Himanshu's GitHub stats" width=300 height=200 />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="HimanshuDhingra2003" width=300 height=200 /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="Himanshu's GitHub stats" height=200 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="HimanshuDhingra2003" height=200 /></p>
    
 </div>
  
