@@ -11,8 +11,8 @@
 
 
 <div align="left">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&theme=transparent&show_icons=true&locale=en" alt="HimanshuDhingra2003" height=200 width=400  />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="HimanshuDhingra2003" height=200 width=410 /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&theme=transparent&show_icons=true&locale=en" alt="HimanshuDhingra2003" height=200 width=420  />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="HimanshuDhingra2003" height=200 width=400 /></p>
    
 </div>
  
