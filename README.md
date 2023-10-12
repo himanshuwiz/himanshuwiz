@@ -12,6 +12,8 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuDhingra2003&layout=compact" alt="Himanshu's GitHub stats" height=200 width=400 />
+  [<img src="https://example.com/github-icon.png" alt="GitHub" width="50">](https://github.com/HimanshuDhingra2003)
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="HimanshuDhingra2003" height=200 width=420 /></p>
    
 </div>
