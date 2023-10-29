@@ -7,10 +7,12 @@
 ###
 
 <br clear="both">
-<div align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&theme=transparent&show_icons=true&locale=en" alt="HimanshuDhingra2003" height=150  />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="HimanshuDhingra2003" height=150  />
+<div style="display: flex;">
+    <img src="https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&theme=transparent&show_icons=true&locale=en" alt="HimanshuDhingra2003" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="HimanshuDhingra2003" height="150" />
 </div>
+
+
 
 ###
 
