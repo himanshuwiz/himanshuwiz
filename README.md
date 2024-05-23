@@ -8,8 +8,8 @@
 
 <br clear="both">
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=HimanshuDhingra2003&theme=transparent&show_icons=true&locale=en" alt="himanshuwiz" height="150" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuDhingra2003&show_icons=true&theme=transparent" alt="himanshuwiz" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api?username=himanshuwiz&theme=transparent&show_icons=true&locale=en" alt="himanshuwiz" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuwiz&show_icons=true&theme=transparent" alt="himanshuwiz" height="150" />
 </div>
 
 
