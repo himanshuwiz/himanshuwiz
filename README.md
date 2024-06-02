@@ -1,18 +1,16 @@
-<h1 align="left">Hey 👋 I'm Himanshu Dhingra</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Himanshu Dhingra
+========================================================================================================================================
 
-###
+Web Developer
+-------------
 
-<p align="left">Exploring Web</p>
+Currently pursuing a B.Tech in Computer Science, is focused on mastering React and the MERN stack, aiming to excel in full-stack development and making web applications.
 
-###
-
-<br clear="both">
-<div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=himanshuwiz&theme=transparent&show_icons=true&locale=en" alt="himanshuwiz" height="150" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuwiz&show_icons=true&theme=transparent" alt="himanshuwiz" height="150" />
-</div>
-
-
+* 🌍  I'm based in Ghaziabad
+* ✉️  You can contact me at [himdhi2003@gmail.com](mailto:himdhi2003@gmail.com)
+* 🧠  I'm learning MERN stack
+* 🤝  I'm open to collaborating on Innovative web applications, open source projects, React-based applications
+* ⚡  Open Source Newbie
 
 ###
 
@@ -34,26 +32,3 @@
 <img width="12" />
 
 </div>
-
-###
-
-<h2 align="left">Contact with me:</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/himanshu-dhingra-12a5bb20b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/himdhi2003" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="" alt="twitter logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/CSB_22B0121010" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="" alt="hackerrank logo"  />
-  </a>
-  <a href="himdhi2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="" alt="gmail logo"  />
-  </a>
-</div>
-
-###
