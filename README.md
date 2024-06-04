@@ -92,4 +92,4 @@ Currently pursuing a B.Tech in Computer Science, is focused on mastering React a
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/himanshuwiz"><img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="'s GitHub stats" /></a>
+d<a href="http://www.github.com/himanshuwiz"><img src="https://github-readme-stats.vercel.app/api?username=himanshuwiz&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="himanshuwiz's GitHub stats" /></a>
